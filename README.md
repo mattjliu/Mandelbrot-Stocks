@@ -1,5 +1,5 @@
 # Mandelbrot-Stocks
-This is a simple program that generates a statistically self-similar pattern of stock prices. The implementation is based on [this paper](https://users.math.yale.edu/users/mandelbrot/web_pdfs/cartoonBrownianMotions.pdf) by Benoit Mandelbrot. 
+Simple program that generates a statistically self-similar pattern of stock prices. The implementation is based on [this paper](https://users.math.yale.edu/users/mandelbrot/web_pdfs/cartoonBrownianMotions.pdf) by Benoit Mandelbrot. 
 
 Here is an example (zooming out from a specific point):
 
